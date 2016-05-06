@@ -1,9 +1,7 @@
 //
 //  AppDelegate.m
-//  LaiYongChe
-//
-//  Created by laiyongche on 16/5/1.
-//  Copyright © 2016年 laiyongche. All rights reserved.
+//  欢迎 热爱编程  热爱 objective-c swift iOS 的朋友一起学习进步，群号：328218600
+
 //That's a cool car!
 
 #import "LYCAppDelegate.h"
