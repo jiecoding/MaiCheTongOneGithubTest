@@ -26,10 +26,9 @@
                 LYCBuyCarListModel *model=[[LYCBuyCarListModel alloc]initWithDic:subDic];
                 
                 [tmpArr addObject:model];
-//            }
-            success(tmpArr);
+ 
         }
-        
+         success(tmpArr);
     } failure:^(NSError *error) {
         
         failure(error);

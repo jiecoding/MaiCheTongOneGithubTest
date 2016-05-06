@@ -84,7 +84,7 @@
 {
     LYCBuyCarInfoViewModel *buyCarViewModel = [[LYCBuyCarInfoViewModel alloc] init];
     buyCarViewModel.cityId = @"1";
-    buyCarViewModel.pageSize = @"8";
+    buyCarViewModel.pageSize = @"7";
     buyCarViewModel.carLevel = [NSString stringWithFormat:@"%d",self.carLevel];
     buyCarViewModel.pageNo = [NSString stringWithFormat:@"%d",_pageNo];
     
